@@ -5,10 +5,7 @@ using Bitfinex.Net.Objects;
 using Bitfinex.Net.Objects.Models;
 using ConnectorBitfinex;
 using CryptoExchange.Net.Authentication;
-using CryptoExchange.Net.CommonObjects;
 using Microsoft.Extensions.Logging;
-using System;
-using System.Diagnostics;
 using System.Threading.Tasks.Dataflow;
 
 const string apiKey = "mrsRVEMEdMVg1FnuLPB5sDucOhW50iLIzAtXTIkF3xi";
